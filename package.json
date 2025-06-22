@@ -1,6 +1,6 @@
 {
   "name": "nanoedge-pki",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Lightweight PKI utility for edge and nano-device communication.",
   "main": "index.js",
   "scripts": {

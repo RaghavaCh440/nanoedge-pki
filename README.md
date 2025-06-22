@@ -22,7 +22,7 @@ In essence, nanoedge-pki is not just a cryptographic utility—it is a foundatio
 
 
 
-> GitHub: [https://github.com/raghavachellu/nanoedge-pki](https://github.com/RaghavaCh440/nanoedge-pki)
+> GitHub: [https://github.com/RaghavaCh440/nanoedge-pki](https://github.com/RaghavaCh440/nanoedge-pki)
 
 # Feature Breakdown (Elaborated)
 
