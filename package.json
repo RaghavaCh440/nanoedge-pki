@@ -1,0 +1,24 @@
+{
+  "name": "nanoedge-pki",
+  "version": "0.1.0",
+  "description": "Lightweight PKI utility for edge and nano-device communication.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "PKI",
+    "crypto",
+    "IoT",
+    "edge",
+    "nano",
+    "signature",
+    "ecc",
+    "lightweight",
+    "security",
+    "authentication"
+  ],
+  "author": "Raghava Chellu",
+  "license": "MIT"
+}
+
